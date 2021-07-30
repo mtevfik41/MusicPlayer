@@ -2,6 +2,8 @@
 
 # Music Player
 
+- <a href="https://music-player-audio-api.netlify.app/" target="_blank">Netlify</a>
+
 Create beautiful UI to play music stored in the "music folder" using the HTML5 audio API
 
 ## Built With
